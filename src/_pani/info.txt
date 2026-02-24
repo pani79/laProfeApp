@@ -1,7 +1,7 @@
 
 //  Angular
 
-ng g enviroments
+ng g environments
 
 // ng build --prod --base-href "https://pani79.github.io/laProfeApp/"
 ng build --configuration production --base-href "https://pani79.github.io/laProfeApp/"
