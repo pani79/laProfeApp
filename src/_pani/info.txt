@@ -3,6 +3,30 @@
 
 ng g environments
 
+
+
+
+
+====================================================================
+INSTALL
+
+ng add @angular/material
+
+npm i -g firebase-tools
+ng add @angular/fire
+
+
+
+====================================================================
+FIREBASE
+
+laprofeapp-121aa
+
+
+====================================================================
+GITHUB
+
+
 // ng build --prod --base-href "https://pani79.github.io/laProfeApp/"
 ng build --configuration production --base-href "https://pani79.github.io/laProfeApp/"
 npx angular-cli-ghpages --dir=dist/laProfeApp
