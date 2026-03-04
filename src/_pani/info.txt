@@ -18,7 +18,7 @@ ng add @angular/material
 
 npm i -g firebase-tools
 ng add @angular/fire
-
+npm install firebase @angular/fire --save
 
 
 ====================================================================
