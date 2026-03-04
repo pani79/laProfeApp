@@ -17,9 +17,10 @@ INSTALL
 ng add @angular/material
 
 npm i -g firebase-tools
-ng add @angular/fire
+//ng add @angular/fire
 npm install firebase @angular/fire --save
-
+npm i @angular/fire
+ng add @angular/fire@latest
 
 ====================================================================
 FIREBASE
